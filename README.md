@@ -39,7 +39,7 @@ pip install -r requirements.txt
    사용자 이름: var userNm = "홍길동";
    ```
 
-## 상세 구현 과정
+## ✨ 상세 구현 과정
 
 1. **로그인시 요구 데이터 확인**
    - 공동인증서 로그인 요청 시, 서버는 서명 정보(xml, pkcs1Msg)와 vidMsg 두 개의 주요 데이터를 요구합니다.
